@@ -8,6 +8,7 @@ public class YPTestDataFactory {
 
         if (doInsert) {
             insert customerAccount;
+            system.debug('456');
         }
 
         return customerAccount;
