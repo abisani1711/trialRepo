@@ -1,1 +1,2 @@
-Hello. Text to be staged, committed, pushed and modified
+Hello. Text to be staged, committed, pushed and modified.
+Modified and committed.
