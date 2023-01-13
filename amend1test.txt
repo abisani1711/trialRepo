@@ -1,0 +1,1 @@
+Test amend command in git
